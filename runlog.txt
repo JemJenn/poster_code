@@ -1,0 +1,19 @@
+R version 3.4.4 (2018-03-15)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows >= 8 x64 (build 9200)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_South Africa.1252  LC_CTYPE=English_South Africa.1252    LC_MONETARY=English_South Africa.1252 LC_NUMERIC=C                         
+[5] LC_TIME=English_South Africa.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] shape_1.4.4       DescTools_0.99.24
+
+loaded via a namespace (and not attached):
+ [1] MASS_7.3-49      compiler_3.4.4   Matrix_1.2-12    tools_3.4.4      expm_0.999-2     foreign_0.8-69   yaml_2.1.18      Rcpp_0.12.16     manipulate_1.0.1
+[10] mvtnorm_1.0-7    grid_3.4.4       boot_1.3-20      lattice_0.20-35 
